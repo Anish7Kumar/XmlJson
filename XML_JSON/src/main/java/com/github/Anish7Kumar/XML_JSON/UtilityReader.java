@@ -1,4 +1,4 @@
-package com.qa.Utility.XML_JSON;
+package com.github.Anish7Kumar.XML_JSON;
 
 import java.io.BufferedReader;
 import java.io.File;
