@@ -1,4 +1,4 @@
-package com.github.Anish7Kumar;
+package com.github.anish7kumar;
 
 import java.io.BufferedReader;
 import java.io.File;

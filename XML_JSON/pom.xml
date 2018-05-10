@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.github.Anish7Kumar</groupId>
+  <groupId>com.github.anish7kumar</groupId>
   <artifactId>XML_JSON</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 	<build>
@@ -86,7 +86,7 @@
     <developer>
       <name>Anish Kumar</name>
       <email>chatrapati1993anish@gmail.com</email>
-      <organization>com.github.Anish7Kumar</organization>
+      <organization>com.github.anish7kumar</organization>
       <organizationUrl>https://github.com/Anish7Kumar/XmlJson</organizationUrl>
     </developer>
   </developers>
@@ -96,7 +96,7 @@
 <distributionManagement>
   <snapshotRepository>
     <id>ossrh</id>
-    <url>https://oss.sonatype.org/content/repositories/snapshots</url>
+    <url>https://oss.sonatype.org/content/repositories/snapshots/</url>
   </snapshotRepository>
 	<repository>
     <id>ossrh</id>
