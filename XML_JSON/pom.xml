@@ -4,7 +4,7 @@
 
   <groupId>com.github.anish7kumar</groupId>
   <artifactId>XML_JSON</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.0</version>
 	<build>
   	<plugins>
 		<plugin>
