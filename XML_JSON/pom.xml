@@ -5,6 +5,7 @@
   <groupId>com.github.anish7kumar</groupId>
   <artifactId>XML_JSON</artifactId>
   <version>1.0.0</version>
+  <description> conversion of  XML to JSON and vice versa </description>
 	<build>
   	<plugins>
 		<plugin>
