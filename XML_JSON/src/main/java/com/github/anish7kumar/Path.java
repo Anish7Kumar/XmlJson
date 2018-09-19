@@ -11,7 +11,7 @@ public class Path {
 	private LinkedList<String> fullPath;
 	int countkey;
 	int countIndex;
-	Path()
+	public Path()
 	{
 		path="";
 		fullPath= new LinkedList<String>();
